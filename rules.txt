@@ -1,22 +1,19 @@
-The game is played in the command prompt
-
+The game takes place in the Command Prompt
 
 GRID_SIZE:
-grid-size is the number of the size of the grid
-eg.
+The grid-size refers to the dimensions of the grid. For instance:
 <grid-size> 3
-grid:	   1.   2.   3.
-	1.
-	
-	2.
-	
-	3.
+The grid would appear as follows:
 
-HOW IS THE GAME PLAYED?
-Just like in minesweeper you choose a field that you want to check.
-eg.
-	(0,0)(0,1)
-	(1,0)(1,1)
-for (0,1) -> <mineseater> 01
+grid:     1.   2.   3.
+          2.
+          3.
+HOW TO PLAY:
+Similar to Minesweeper, you select a field to check.
+For example:
+    (0,0) (0,1)
+    (1,0) (1,1)
+For the field (0,1), you'd type it as:
+<mineseater> 01
 
-You have to check every single field that does not contain a bomb to win the game
+To win the game, you must check every field that does not contain a bomb.
