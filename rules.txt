@@ -16,4 +16,12 @@ For example:
 For the field (0,1), you'd type it as:
 <mineseater> 01
 
+-- output: Adjacent bombs: 1 (if one of the adjacent fields contain a bomb)
+
+Adjecent refers to the field directly next to, below or above the field.
+For example:
+
+(0,0) is adjacent to (0,1) and (1,0)
+
+
 To win the game, you must check every field that does not contain a bomb.
