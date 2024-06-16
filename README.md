@@ -11,4 +11,3 @@ This Mineseater game is implemented in Python and runs in the Command Prompt. It
 - User-friendly command-line interface
 - Ability to reveal cells and detect nearby bombs
 - End-of-game detection and restart option
-
