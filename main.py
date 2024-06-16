@@ -75,11 +75,11 @@ def print_field() -> None:
     field_out = "  "
     index = 0
     for i in range(grid_size):
-        field_out += f"\x1b[2m{i}\x1b[0m  "
+        field_out += f"\x1b[2m{i}\x1b[0m "
     for i in range(grid_size):
         field_out += f"\n\x1b[2m{i}\x1b[0m "
         for k in range(grid_size):
-            field_out += f"{field_out_list[index]}  "
+            field_out += f"{field_out_list[index]} "
             index += 1
     print(field_out)
 
