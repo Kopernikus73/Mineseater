@@ -1,6 +1,5 @@
 # Mineseater
 
-<<<<<<< HEAD
 ## What is it?
 Mineseater is similar to Minesweeper and the concept is almost the same. You check fields for bombs and hope they won't reveal a bomb that ends the game.
 
